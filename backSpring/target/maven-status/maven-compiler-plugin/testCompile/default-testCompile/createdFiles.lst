@@ -1,0 +1,10 @@
+com/cst438/controller/AssignmentControllerSystemTest.class
+com/cst438/controller/SectionControllerWithSecurityUnitTest.class
+com/cst438/controller/EnrollmentControllerUnitTest.class
+com/cst438/controller/StudentControllerUnitTest.class
+com/cst438/test/utils/TestUtils.class
+com/cst438/controller/SectionControllerUnitTest.class
+com/cst438/controller/AssignmentControllerUnitTest.class
+com/cst438/controller/EnrollmentControllerSystemTest.class
+com/cst438/controller/SectionControllerSystemTest.class
+com/cst438/controller/StudentControllerSystemTest.class
